@@ -1,4 +1,4 @@
-### <h2 dir="auto">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Kshitij Kumar Saini!](https://kshitij-kumar-saini.vercel.app)</h2>
+### <h2 dir="auto">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Kshitij Saini!](https://kshitij-kumar-saini.vercel.app)</h2>
 
 
 ### 🤔 Bit about my Background & Interests
